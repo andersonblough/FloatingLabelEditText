@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FloatingEditText">
+        <attr name="errorMessagePadding" format="reference|dimension" />
+        <attr name="errorMessagePaddingLeft" format="reference|dimension" />
+        <attr name="errorMessagePaddingTop" format="reference|dimension" />
+        <attr name="errorMessagePaddingRight" format="reference|dimension" />
+        <attr name="errorMessagePaddingBottom" format="reference|dimension" />
+        <attr name="hintPadding" format="reference|dimension" />
+        <attr name="hintPaddingLeft" format="reference|dimension" />
+        <attr name="hintPaddingTop" format="reference|dimension" />
+        <attr name="hintPaddingRight" format="reference|dimension" />
+        <attr name="hintPaddingBottom" format="reference|dimension" />
+        <attr name="hintTextAppearance" format="reference" />
+        <attr name="errorTextAppearance" format="reference" />
+        <attr name="errorDrawable" format="reference"/>
+    </declare-styleable>
+</resources>
